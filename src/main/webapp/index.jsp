@@ -36,7 +36,7 @@
                                 <i class="fa fa-phone"></i>
                             </div>
                             <div class="hero__search__phone__text">
-                                <h5>+91 7057891106</h5>
+                                <h5>+91 9766556296</h5>
                                 <span>support 24/7 times</span>
                             </div>
                         </div>
